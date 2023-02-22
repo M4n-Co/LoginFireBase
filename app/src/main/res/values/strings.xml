@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginFireBase</string>
+    <string name="titulo">Login</string>
+
+    <string name="prefs_file">com.example.loginfirebase.PREFERENCE_FILE_KEY</string>
+
+    <string name="tEmail">Email</string>
+    <string name="tPass">Contraseña</string>
+    <string name="tbResgistrar">Registrar</string>
+    <string name="tbIniciar">Iniciar</string>
+
+    <string name="cerrar">Cerrar sesión</string>
+    <string name="proveedor">Proveedor</string>
+
+    <string name="error">Error</string>
+    <string name="mensaje">Se ha produciodo un error autentificando al usuario</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string name="mensajePass">La contraseña debe ser de almenos 6 caracteres</string>
+</resources>
